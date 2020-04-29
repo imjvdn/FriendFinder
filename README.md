@@ -6,4 +6,4 @@ This app uses Express to serve 2 static HTML files and 2 API routes to get and p
 
 [Click here!](https://zefriendfinder.herokuapp.com/)
 
-![](/images/image1.jpg)
+![](images/image1.jpg)
