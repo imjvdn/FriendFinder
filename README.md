@@ -1,3 +1,9 @@
+                                                           
+    |         |              ,-.-.                         
+    |,---.,---|,---.,---.    | | |,---.,---.,---.,---.. . .
+    |,---||   |,---||   |    | | ||   ||    |    |   || | |
+`---'`---^`---'`---^`   '    ` ' '`---'`    `    `---'`-'-'
+
 # FriendFinder
 
 A fullstack match making application using Express package for Node.js.
